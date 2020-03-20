@@ -1,5 +1,5 @@
-// var MyContract = artifacts.require("./MyContract.sol");
+ var SendMessages = artifacts.require("./SendMessages.sol");
 
 module.exports = function(deployer) {
-  // deployer.deploy(MyContract);
+   deployer.deploy(SendMessages);
 };

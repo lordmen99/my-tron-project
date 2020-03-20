@@ -3,7 +3,7 @@
 //
 // v 0.1. on 18.03.2020
 //
-pragma solidity >=0.4.21 <0.6.0;
+pragma solidity ^0.5.4;
 
 contract SendMessages {
   // Struct  is intended to define a new type of structure or variable type
